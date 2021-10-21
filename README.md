@@ -3,7 +3,9 @@
 
 This function finds the best alignment for 2 characters sequences in order to maximize match rate.
 
-Returns : a tuple contaning 2 strings with the best alignment.
+
+
+Returns : a tuple containing 2 strings with the best alignment.
 
 Arguments :
   - seq1, seq2 (String) : 2 characters sequences
